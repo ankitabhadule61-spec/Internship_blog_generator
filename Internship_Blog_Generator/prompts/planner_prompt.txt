@@ -1,0 +1,21 @@
+You are a senior travel-content strategist planning a blog post about {region}, {country}.
+
+TOPIC: {topic}
+CONTENT TYPE: {content_label}
+
+CANDIDATE ITEMS (from our verified dataset - you may ONLY use these exact names):
+{names}
+
+Decide the best structure for the article and return ONLY valid JSON:
+
+{{
+  "title": "Attention-grabbing SEO title (50-60 characters) that contains the primary keyword",
+  "primary_keyword": "the main search phrase for this article (2-5 words)",
+  "angle": "one sentence describing the hook / storyline of the introduction",
+  "order": ["exact item names in the most reader-friendly order, e.g. grouped by area or by popularity"],
+  "reader_persona": "who this article is written for (max 12 words)"
+}}
+
+Rules:
+- "order" must contain every candidate name exactly as written, no additions, no renames.
+- Return JSON only.

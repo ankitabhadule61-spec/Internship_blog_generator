@@ -1,0 +1,29 @@
+{
+  "score": 88,
+  "passed": true,
+  "metrics": {
+    "word_count": 1396,
+    "items_covered": "6/6",
+    "cliches": 2,
+    "flesch": 36.0,
+    "faq_count": 6,
+    "unsupported_facts": 0
+  },
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "length",
+      "message": "Word count 1396 is slightly outside the 1500-2200 target."
+    },
+    {
+      "severity": "warning",
+      "code": "cliches",
+      "message": "Replace clichéd phrases: nestled, breathtaking"
+    },
+    {
+      "severity": "warning",
+      "code": "repetition",
+      "message": "The sentence opening 'recommended for' is used 6 times; vary the openings."
+    }
+  ]
+}

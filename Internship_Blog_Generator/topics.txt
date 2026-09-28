@@ -1,0 +1,6 @@
+# One topic per line. Run with:  python main.py --batch topics.txt
+Best Waterfalls of Goa
+Top 10 Events of Goa
+Top 10 Water Sports in Goa
+Historic Forts of Goa
+Best Seafood Restaurants in Goa

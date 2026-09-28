@@ -1,0 +1,100 @@
+{
+  "places": {
+    "label": "destinations",
+    "item_word": "destination",
+    "words_per_item": "120-180",
+    "item_structure": [
+      ["Why Visit", "2-3 engaging sentences on why travellers should experience this place."],
+      ["What Makes It Special", "Scenery, history and character in 2-3 natural sentences (use historical_info only if present)."],
+      ["Best Time to Visit", "One concise sentence, based on best_time_to_visit."],
+      ["Nearby Attractions", "Only if nearest_place_to_visit has data; otherwise omit this sub-section."],
+      ["Travel Tip", "One practical sentence based on dos/donts or timings."]
+    ],
+    "extra_sections": [
+      ["How to Reach", "Practical road / rail / local transport guidance using the ROUTE lines in the data."],
+      ["Best Time to Visit {region}", "Ideal seasons and weather for these places."],
+      ["Budget Tips", "Money-saving advice (entry fees only if present in the data)."],
+      ["Responsible Tourism Tips", "Respectful, eco-friendly travel advice."],
+      ["Frequently Asked Questions", "5-7 FAQs. Each question is a ### heading ending with '?' followed by a short answer paragraph."],
+      ["Conclusion", "Inspiring closing paragraph."]
+    ]
+  },
+  "activities": {
+    "label": "activities",
+    "item_word": "activity",
+    "words_per_item": "120-180",
+    "item_structure": [
+      ["What You Will Do", "2-3 sentences describing the experience (use description / highlights)."],
+      ["Who It Is For", "One sentence using suitable_for, minimum_age and difficulty_level."],
+      ["Duration and Cost", "One sentence with duration and average_cost + currency, only if present."],
+      ["Best Season", "One sentence from best_season."],
+      ["Travel Tip", "One sentence from what_to_carry / restrictions."]
+    ],
+    "extra_sections": [
+      ["Getting Around", "How to reach the activity locations using transport data if available."],
+      ["Best Time for Adventure in {region}", "Seasons, weather and sea conditions."],
+      ["Safety and Booking Tips", "Booking advice and safety guidance, grounded in the data."],
+      ["Budget Tips", "Money-saving advice."],
+      ["Frequently Asked Questions", "5-7 FAQs. Each question is a ### heading ending with '?' followed by a short answer paragraph."],
+      ["Conclusion", "Inspiring closing paragraph."]
+    ]
+  },
+  "events": {
+    "label": "events and festivals",
+    "item_word": "event",
+    "words_per_item": "110-170",
+    "item_structure": [
+      ["What Is It", "2-3 sentences using description, category and recurrence."],
+      ["When and Where", "One sentence with start_date/end_date, venue and village."],
+      ["What to Expect", "Crowd, tickets (ticket_price / ticket_required) and atmosphere in 2 sentences."],
+      ["Nearby Attractions", "Only if nearby_attractions has data; otherwise omit."],
+      ["Travel Tip", "One sentence from safety_tips / best_time_to_visit."]
+    ],
+    "extra_sections": [
+      ["How to Plan Your Festival Trip", "Practical planning advice: booking early, transport, stays."],
+      ["Best Time to Visit {region} for Events", "Month-by-month overview built ONLY from the events given."],
+      ["Budget Tips", "Money-saving advice."],
+      ["Responsible Festival Tips", "Respectful and safe behaviour at cultural events."],
+      ["Frequently Asked Questions", "5-7 FAQs. Each question is a ### heading ending with '?' followed by a short answer paragraph."],
+      ["Conclusion", "Inspiring closing paragraph."]
+    ]
+  },
+  "food": {
+    "label": "restaurants and food experiences",
+    "item_word": "restaurant",
+    "words_per_item": "110-170",
+    "item_structure": [
+      ["The Experience", "2-3 sentences on atmosphere and cuisine (Cuisine types, Restaurant type, Description)."],
+      ["Must-Try Dishes", "Use Popular dishes only; do not invent dishes."],
+      ["Price and Timings", "One sentence using Price range (for two) and opening/closing time if present."],
+      ["Location", "One sentence using Village and Nearest beach / landmark."],
+      ["Travel Tip", "One practical sentence."]
+    ],
+    "extra_sections": [
+      ["Local Flavours of {region}", "Overview of the cuisines represented in the data."],
+      ["Vegetarian and Dietary Options", "Use the Veg / Non Veg field."],
+      ["Budget Tips", "Money-saving dining advice."],
+      ["Frequently Asked Questions", "5-7 FAQs. Each question is a ### heading ending with '?' followed by a short answer paragraph."],
+      ["Conclusion", "Inspiring closing paragraph."]
+    ]
+  },
+  "stay": {
+    "label": "places to stay",
+    "item_word": "stay",
+    "words_per_item": "110-170",
+    "item_structure": [
+      ["Overview", "2-3 sentences from description and category."],
+      ["Best For", "One sentence from best_for / family_friendly."],
+      ["Amenities", "One sentence naming key amenities from the data."],
+      ["Price and Location", "price_per_night + currency, village and nearest_beach, only if present."],
+      ["Travel Tip", "One practical sentence."]
+    ],
+    "extra_sections": [
+      ["How to Choose Where to Stay in {region}", "Guidance on regions and budgets using only the data."],
+      ["Best Time to Visit {region}", "Seasonal advice and pricing patterns if supported by the data."],
+      ["Budget Tips", "Money-saving advice."],
+      ["Frequently Asked Questions", "5-7 FAQs. Each question is a ### heading ending with '?' followed by a short answer paragraph."],
+      ["Conclusion", "Inspiring closing paragraph."]
+    ]
+  }
+}

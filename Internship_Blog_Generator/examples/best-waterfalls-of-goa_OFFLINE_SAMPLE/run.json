@@ -1,0 +1,44 @@
+{
+  "topic": "Best Waterfalls of Goa",
+  "created": "2026-09-28T09:23:08",
+  "content_type": "places",
+  "subject": "waterfall",
+  "items": [
+    "Dudhsagar Falls",
+    "Kuske Waterfall",
+    "Savari Waterfall",
+    "Netravali Waterfall",
+    "Salaulim Waterfall (Salaulim Dam Spillway)",
+    "Bamanbudo Waterfall"
+  ],
+  "mode": "offline",
+  "model": null,
+  "llm_calls": 0,
+  "revisions": 0,
+  "quality_score": 88,
+  "seo_score": 88,
+  "word_count": 1396,
+  "durations_sec": {
+    "retrieval": 0.28,
+    "plan": 0.0,
+    "write": 0.02,
+    "quality": 0.01,
+    "seo": 0.01,
+    "images": 0.72,
+    "export": 0.12
+  },
+  "files": {
+    "docx": "/tmp/final/best-waterfalls-of-goa/final_blog.docx",
+    "html": "/tmp/final/best-waterfalls-of-goa/blog.html",
+    "md": "/tmp/final/best-waterfalls-of-goa/blog_publish.md",
+    "markdown_source": "/tmp/final/best-waterfalls-of-goa/blog.md",
+    "seo": "/tmp/final/best-waterfalls-of-goa/seo.json",
+    "quality": "/tmp/final/best-waterfalls-of-goa/quality_report.json"
+  },
+  "warnings": [
+    "20 suspect dataset rows were excluded - see output/data_quality_report.csv",
+    "[warning] Word count 1396 is slightly outside the 1500-2200 target.",
+    "[warning] Replace clichéd phrases: nestled, breathtaking",
+    "[warning] The sentence opening 'recommended for' is used 6 times; vary the openings."
+  ]
+}

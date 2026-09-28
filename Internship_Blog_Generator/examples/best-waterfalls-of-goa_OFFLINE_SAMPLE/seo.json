@@ -1,0 +1,178 @@
+{
+  "seo_title": "Best Waterfalls of Goa",
+  "primary_keyword": "Best Waterfalls of Goa",
+  "focus_keyword": "Best Waterfalls of Goa",
+  "secondary_keywords": [
+    "Goa travel guide",
+    "things to do in Goa",
+    "visit Goa",
+    "waterfall in Goa",
+    "nature in Goa"
+  ],
+  "long_tail_keywords": [
+    "best time to visit waterfalls of goa",
+    "how to reach waterfalls of goa",
+    "waterfalls of goa with family",
+    "waterfalls of goa on a budget",
+    "waterfalls of goa travel guide"
+  ],
+  "slug": "best-waterfalls-of-goa",
+  "meta_description": "Explore the waterfalls of goa: Dudhsagar Falls, Kuske Waterfall and more. Verified timings, best seasons and practical travel tips to plan your trip.",
+  "excerpt": "Explore the waterfalls of goa: Dudhsagar Falls, Kuske Waterfall and more. Verified timings, best seasons and practical travel tips to plan your trip.",
+  "tags": [
+    "Best Waterfalls of Goa",
+    "Goa",
+    "Goa travel guide",
+    "things to do in Goa",
+    "visit Goa"
+  ],
+  "word_count": 1396,
+  "reading_time_minutes": 7,
+  "image_alt_text": {
+    "Dudhsagar Falls": "Scenic view of Dudhsagar Falls, a waterfall in Goa, India",
+    "Kuske Waterfall": "Scenic view of Kuske Waterfall, a waterfall in Goa, India",
+    "Savari Waterfall": "Scenic view of Savari Waterfall, a waterfall in Goa, India",
+    "Netravali Waterfall": "Scenic view of Netravali Waterfall, a waterfall in Goa, India",
+    "Salaulim Waterfall (Salaulim Dam Spillway)": "Scenic view of Salaulim Waterfall, a waterfall in Goa, India",
+    "Bamanbudo Waterfall": "Scenic view of Bamanbudo Waterfall, a waterfall in Goa, India"
+  },
+  "keyword_density_percent": 0.57,
+  "checks": [
+    {
+      "check": "SEO title 30-60 chars",
+      "passed": false,
+      "value": 22,
+      "points": 12
+    },
+    {
+      "check": "Meta description 120-160 chars",
+      "passed": true,
+      "value": 149,
+      "points": 14
+    },
+    {
+      "check": "Keyword in SEO title",
+      "passed": true,
+      "value": "",
+      "points": 12
+    },
+    {
+      "check": "Keyword in H1",
+      "passed": true,
+      "value": "",
+      "points": 10
+    },
+    {
+      "check": "Keyword in first 100 words",
+      "passed": true,
+      "value": "",
+      "points": 10
+    },
+    {
+      "check": "Keyword in slug",
+      "passed": true,
+      "value": "best-waterfalls-of-goa",
+      "points": 6
+    },
+    {
+      "check": "Keyword density 0.4-2.5%",
+      "passed": true,
+      "value": 0.57,
+      "points": 10
+    },
+    {
+      "check": "5 secondary + 5 long-tail keywords",
+      "passed": true,
+      "value": "",
+      "points": 6
+    },
+    {
+      "check": "Alt text for every item image",
+      "passed": true,
+      "value": 6,
+      "points": 8
+    },
+    {
+      "check": "FAQ section (FAQ rich results)",
+      "passed": true,
+      "value": 6,
+      "points": 7
+    },
+    {
+      "check": "At least 5 H2 sections",
+      "passed": true,
+      "value": "",
+      "points": 5
+    }
+  ],
+  "seo_score": 88,
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Best Waterfalls of Goa",
+      "description": "Explore the waterfalls of goa: Dudhsagar Falls, Kuske Waterfall and more. Verified timings, best seasons and practical travel tips to plan your trip.",
+      "keywords": "Best Waterfalls of Goa, Goa travel guide, things to do in Goa, visit Goa, waterfall in Goa, nature in Goa",
+      "wordCount": 1396,
+      "inLanguage": "en",
+      "about": {
+        "@type": "Place",
+        "name": "Goa, India"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the most popular option in this guide?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dudhsagar Falls leads our list based on visitor popularity in the dataset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is the best time to visit Dudhsagar Falls?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "October to early June (best flow June-September, but access restricted in peak monsoon)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is the best time to visit Kuske Waterfall?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jun-Sept."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is the best time to visit Savari Waterfall?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jun-Sept."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is the best time to visit Netravali Waterfall?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jun-Sept."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is the best time to visit Salaulim Waterfall (Salaulim Dam Spillway)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jul-Oct."
+          }
+        }
+      ]
+    }
+  ]
+}

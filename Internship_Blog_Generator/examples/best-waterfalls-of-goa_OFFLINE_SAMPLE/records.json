@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Dudhsagar Falls",
+    "facts": [
+      [
+        "Region",
+        "Dharbandora"
+      ],
+      [
+        "Entry fee",
+        "Sanctuary entry approx Rs 50 + jeep safari approx Rs 400-450 per person (full jeep approx Rs 2400-2500)"
+      ],
+      [
+        "Timings",
+        "Jeep safari: 6:00 AM - 5:30 PM; ticket counter closes around 2:00 PM; closed during heavy monsoon (mid-June to September)"
+      ],
+      [
+        "Best time",
+        "October to early June (best flow June-September, but access restricted in peak monsoon)"
+      ]
+    ],
+    "route": null
+  },
+  {
+    "name": "Kuske Waterfall",
+    "facts": [
+      [
+        "Region",
+        "Sanguem"
+      ],
+      [
+        "Entry fee",
+        "Free"
+      ],
+      [
+        "Timings",
+        "8:00 AM - 5:00 PM"
+      ],
+      [
+        "Best time",
+        "Jun-Sept"
+      ]
+    ],
+    "route": "By road: Accessible by road via state highways; taxis and private vehicles available. | Nearest railhead: Auto-rickshaws, taxis and local buses available nearby (subject to location). | Local transport: Nearest major railway station depends on destination; taxi/bus required for onward travel."
+  },
+  {
+    "name": "Savari Waterfall",
+    "facts": [
+      [
+        "Region",
+        "Sanguem"
+      ],
+      [
+        "Entry fee",
+        "Free"
+      ],
+      [
+        "Timings",
+        "8:00 AM - 5:00 PM"
+      ],
+      [
+        "Best time",
+        "Jun-Sept"
+      ]
+    ],
+    "route": "By road: Accessible by road via state highways; taxis and private vehicles available. | Nearest railhead: Auto-rickshaws, taxis and local buses available nearby (subject to location). | Local transport: Nearest major railway station depends on destination; taxi/bus required for onward travel."
+  },
+  {
+    "name": "Netravali Waterfall",
+    "facts": [
+      [
+        "Region",
+        "Sanguem"
+      ],
+      [
+        "Entry fee",
+        "Free"
+      ],
+      [
+        "Timings",
+        "8:00 AM - 5:00 PM"
+      ],
+      [
+        "Best time",
+        "Jun-Sept"
+      ]
+    ],
+    "route": "By road: Accessible by road via state highways; taxis and private vehicles available. | Nearest railhead: Auto-rickshaws, taxis and local buses available nearby (subject to location). | Local transport: Nearest major railway station depends on destination; taxi/bus required for onward travel."
+  },
+  {
+    "name": "Salaulim Waterfall (Salaulim Dam Spillway)",
+    "facts": [
+      [
+        "Region",
+        "Sanguem"
+      ],
+      [
+        "Entry fee",
+        "Free"
+      ],
+      [
+        "Timings",
+        "8:00 AM - 5:00 PM"
+      ],
+      [
+        "Best time",
+        "Jul-Oct"
+      ]
+    ],
+    "route": "By road: Accessible by road via state highways; taxis and private vehicles available. | Nearest railhead: Auto-rickshaws, taxis and local buses available nearby (subject to location). | Local transport: Nearest major railway station depends on destination; taxi/bus required for onward travel."
+  },
+  {
+    "name": "Bamanbudo Waterfall",
+    "facts": [
+      [
+        "Region",
+        "Canacona"
+      ],
+      [
+        "Entry fee",
+        "Free"
+      ],
+      [
+        "Timings",
+        "8:00 AM - 5:00 PM"
+      ],
+      [
+        "Best time",
+        "Oct-Mar"
+      ]
+    ],
+    "route": "By road: Accessible by road via state highways; taxis and private vehicles available. | Nearest railhead: Auto-rickshaws, taxis and local buses available nearby (subject to location). | Local transport: Nearest major railway station depends on destination; taxi/bus required for onward travel."
+  }
+]

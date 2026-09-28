@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "file": "hero.png",
+    "source": "placeholder",
+    "alt": "Best Waterfalls of Goa - Goa, India"
+  },
+  "Dudhsagar Falls": {
+    "file": "dudhsagar_falls.png",
+    "source": "placeholder",
+    "alt": "Scenic view of Dudhsagar Falls, a waterfall in Goa, India"
+  },
+  "Kuske Waterfall": {
+    "file": "kuske_waterfall.png",
+    "source": "placeholder",
+    "alt": "Scenic view of Kuske Waterfall, a waterfall in Goa, India"
+  },
+  "Savari Waterfall": {
+    "file": "savari_waterfall.png",
+    "source": "placeholder",
+    "alt": "Scenic view of Savari Waterfall, a waterfall in Goa, India"
+  },
+  "Netravali Waterfall": {
+    "file": "netravali_waterfall.png",
+    "source": "placeholder",
+    "alt": "Scenic view of Netravali Waterfall, a waterfall in Goa, India"
+  },
+  "Salaulim Waterfall (Salaulim Dam Spillway)": {
+    "file": "salaulim_waterfall.png",
+    "source": "placeholder",
+    "alt": "Scenic view of Salaulim Waterfall, a waterfall in Goa, India"
+  },
+  "Bamanbudo Waterfall": {
+    "file": "bamanbudo_waterfall.png",
+    "source": "placeholder",
+    "alt": "Scenic view of Bamanbudo Waterfall, a waterfall in Goa, India"
+  }
+}

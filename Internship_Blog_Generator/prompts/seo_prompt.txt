@@ -1,0 +1,24 @@
+You are an expert travel SEO specialist. Analyse the article and return ONLY valid JSON.
+
+TOPIC: {topic}
+PLANNED PRIMARY KEYWORD: {primary_keyword}
+
+ARTICLE:
+{blog}
+
+Return exactly this JSON structure:
+
+{{
+  "seo_title": "30-60 characters, includes the primary keyword",
+  "primary_keyword": "the main keyword (2-5 words)",
+  "secondary_keywords": ["exactly 5 keywords"],
+  "long_tail_keywords": ["exactly 5 long-tail search phrases"],
+  "meta_description": "150-160 characters, includes the primary keyword and a call to action",
+  "excerpt": "one engaging sentence of 20-30 words for social previews",
+  "tags": ["5 short blog tags"]
+}}
+
+Rules:
+- Keywords must reflect what is actually in the article.
+- Do not include word counts, slugs or image data - they are computed elsewhere.
+- Return ONLY JSON.
